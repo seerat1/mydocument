@@ -46,17 +46,17 @@
     {
          background: ;
          margin-left: 2px;
-         color: white !important;
+         color: black !important;
      }
 
     .fa-twitter
      {
           background: ;
-          color: white !important;
+          color: black !important;
      }
      li a
      {
-	color: white !important;
+	color: black !important;
 	font-weight: 750 !important;
 	font-size: 13px;
 	display: inline-block !important;
